@@ -5,7 +5,7 @@ go install -u github.com/dvwallin/perinc
 ```
 
 # Usage
-````
+```
 $GOPATH/bin/perinc <base_price> <percentage> <years>
 ```
 
