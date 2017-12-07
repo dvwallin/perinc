@@ -1,7 +1,7 @@
 # Install
 ```
 cd $GOPATH/src
-go install -u github.com/dvwallin/perinc
+go get -u github.com/dvwallin/perinc
 ```
 
 # Usage
